@@ -20,6 +20,9 @@ HealthMate is an AI-powered system designed to deliver smart, personalized healt
 + Model Inference – Predicts the most likely disease or health issue
 + Recommendation Engine – Returns personalized suggestions mapped from a knowledge base
 
+## Results
+![result](https://github.com/Shikhagogoi/HealthMate-Personalized-Disease-Recommender/blob/cb1140f455632b31b836c1ffba8882cc92025412/Screenshot%20(16).png)
+
 ## Why This Matters
 HealthMate isn’t just about predictions. It’s about actionable insights — helping users take the right steps at the right time. It has the potential to evolve into a virtual health companion for everyday use.
 
